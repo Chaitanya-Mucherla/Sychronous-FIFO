@@ -1,4 +1,4 @@
-🔁**Synchronous FIFO (FPGA Implementation – Verilog)**
+# Synchronous FIFO (FPGA Implementation – Verilog)
 
 A parameterized Synchronous FIFO designed in Verilog and implemented on FPGA. The project demonstrates reliable buffered data transfer using a single clock domain, with full/empty detection and real-time visualization on FPGA hardware.
 
